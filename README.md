@@ -6,7 +6,7 @@
 
     - package yang dapat membantu pembangunan aplikasi command line pada nodejs antara lain :
 
-      * caporal
+      ..* caporal
       ** commander
       ** yargs
 
