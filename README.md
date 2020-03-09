@@ -9,3 +9,12 @@
       ** caporal
       ** commander
       ** yargs
+
+
+** caporal 
+    
+    /week3/Tugas-4-cli$ cd javascript-cli-challenge/
+    /week3/Tugas-4-cli/javascript-cli-challenge$ npm init --y
+    /week3/Tugas-4-cli/javascript-cli-challenge$ npm i caporal
+    /week3/Tugas-4-cli/javascript-cli-challenge$ touch index.js
+    
