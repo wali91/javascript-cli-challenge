@@ -11,7 +11,7 @@
       ** yargs
 
 
-** caporal 
+    ** caporal 
     
     /week3/Tugas-4-cli$ cd javascript-cli-challenge/
     /week3/Tugas-4-cli/javascript-cli-challenge$ npm init --y
